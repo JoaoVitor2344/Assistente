@@ -1,7 +1,7 @@
 ---
 ## Política de Privacidade (Resumo Essencial)
 
-Esta Política de Privacidade descreve como [Nome do Seu Aplicativo] ("nós") coleta, usa e protege suas informações ao automatizar mensagens do WhatsApp com IA.
+Esta Política de Privacidade descreve como nós coleta,ps, usamos e protegemos suas informações ao automatizar mensagens do WhatsApp com IA.
 
 **O que coletamos:**
 * **Configurações do WhatsApp:** Credenciais necessárias para a automação. **Não armazenamos suas mensagens do WhatsApp.**
